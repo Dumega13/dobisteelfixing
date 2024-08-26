@@ -251,7 +251,7 @@ img {
 }
 #header-home .header-content {
   text-align: center;
-  padding-top: 20%;
+  padding-top: 25%;
 }
 #header-home h1 {
   font-size: 3rem;
@@ -259,8 +259,8 @@ img {
 }
 
 #header-inner {
-  background: url("../img/showcase.png") no-repeat 20% 30% / cover;
-  height: 10vh;
+  background: url("../img/showcase.png") no-repeat 20% 80% / cover;
+  height: 15vh;
   border-bottom: 3px solid #ffbc00;
 }
 
@@ -511,7 +511,7 @@ img {
     padding-top: 4rem;
   }
   #header-inner {
-    height: 5.5rem;
+    height: 11rem;
   }
 }
 
@@ -531,7 +531,7 @@ img {
     display: none;
   }
   #header-inner {
-    height: 10rem;
+    height: 11rem;
   }
   #home-a .specials,
   #home-b .stats,
