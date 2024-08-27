@@ -341,6 +341,7 @@ img {
 }
 
 #about-a .about-info {
+  margin-top: 1.5rem;
   display: grid;
   grid-template-areas: "bioimage bio bio" "aw1 aw2 aw3";
   grid-gap: 1.3rem;
