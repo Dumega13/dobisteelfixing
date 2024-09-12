@@ -566,7 +566,7 @@ img {
     color: #fff;
   }
   #about-c {
-    display: none;
+    display: all;
   }
   #about-d .testimonials ul {
     justify-content: center;
