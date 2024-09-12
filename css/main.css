@@ -47,8 +47,8 @@ input[class^="btn-"]:hover {
 }
 
 .bg-dark {
-  background: #333;
-  color: set-text-color(#333);
+  background: #808080;
+  color: set-text-color(#e2e0e0);
 }
 
 .bg-medium {
@@ -170,7 +170,7 @@ input[class^="btn-"]:hover {
   transform: translateY(-50%);
 }
 .item-text-title {
-  font-size: 2rem;
+  font-size: 1rem;
   padding: 0 1rem;
   margin: 5px 0 0 0;
 }
@@ -352,6 +352,11 @@ img {
 
 #about-a .bio-img {
   grid-area: bioimage;
+}
+
+#about-a .our-img {
+  padding-top: 1rem;
+  width: 100%;
 }
 
 #about-a .bio {
