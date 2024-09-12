@@ -565,8 +565,10 @@ img {
   #about-b h4 {
     color: #fff;
   }
-  #about-c {
-    display: all;
+  #about-c .about-logos {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2rem;
   }
   #about-d .testimonials ul {
     justify-content: center;
